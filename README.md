@@ -229,5 +229,3 @@ This implementation follows a **simplified architecture** that:
 ## License
 
 MIT License
-
-# graphloom
